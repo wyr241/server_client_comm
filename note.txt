@@ -1,0 +1,38 @@
+arpa/inet.h -- information
+
+socket()
+perror()
+exit()
+
+memset
+
+struct sockaddr_in serverAddr{};
+
+bind()
+
+listen()
+
+accept()
+
+std::thread -- information
+	:detach()
+
+
+recv()
+
+
+std::lock_guard<std::mutex>
+
+std::ios::app
+
+close()
+
+-------
+
+tm* localTime = localtime(&currentTime)
+
+connect()
+
+strftime()
+
+send()
